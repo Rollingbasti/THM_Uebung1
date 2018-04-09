@@ -13,6 +13,8 @@ public class Main {
 
 		boolean next = false;
 		
+		
+		
 		//Benutzereingabe starten
 		do {
 			next = false;
